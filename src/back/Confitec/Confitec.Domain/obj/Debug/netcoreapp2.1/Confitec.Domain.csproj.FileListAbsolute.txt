@@ -1,0 +1,13 @@
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\bin\Debug\netcoreapp2.1\Confitec.Domain.deps.json
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\bin\Debug\netcoreapp2.1\Confitec.Domain.dll
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\bin\Debug\netcoreapp2.1\Confitec.Domain.pdb
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.AssemblyInfo.cs
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.csproj.CopyComplete
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.dll
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.pdb
+C:\Users\ander\Desktop\Confitec\cadastroDeUsuario\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.dll
+C:\Users\ander\Desktop\Confitec\cadastroDeUsuario\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.pdb

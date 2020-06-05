@@ -1,0 +1,9 @@
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.CrossCutting\bin\Debug\netcoreapp2.1\Confitec.CrossCutting.deps.json
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.CrossCutting\bin\Debug\netcoreapp2.1\Confitec.CrossCutting.dll
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.CrossCutting\bin\Debug\netcoreapp2.1\Confitec.CrossCutting.pdb
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.CrossCutting\obj\Debug\netcoreapp2.1\Confitec.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.CrossCutting\obj\Debug\netcoreapp2.1\Confitec.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.CrossCutting\obj\Debug\netcoreapp2.1\Confitec.CrossCutting.AssemblyInfo.cs
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.CrossCutting\obj\Debug\netcoreapp2.1\Confitec.CrossCutting.dll
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.CrossCutting\obj\Debug\netcoreapp2.1\Confitec.CrossCutting.pdb
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.CrossCutting\obj\Debug\netcoreapp2.1\Confitec.CrossCutting.csprojAssemblyReference.cache

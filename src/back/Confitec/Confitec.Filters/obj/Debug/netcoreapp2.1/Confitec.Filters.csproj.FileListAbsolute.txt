@@ -1,0 +1,14 @@
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\bin\Debug\netcoreapp2.1\Confitec.Filters.deps.json
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\bin\Debug\netcoreapp2.1\Confitec.Filters.dll
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\bin\Debug\netcoreapp2.1\Confitec.Filters.pdb
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\obj\Debug\netcoreapp2.1\Confitec.Filters.csprojAssemblyReference.cache
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\obj\Debug\netcoreapp2.1\Confitec.Filters.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\obj\Debug\netcoreapp2.1\Confitec.Filters.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\obj\Debug\netcoreapp2.1\Confitec.Filters.AssemblyInfo.cs
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\obj\Debug\netcoreapp2.1\Confitec.Filters.csproj.CopyComplete
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\obj\Debug\netcoreapp2.1\Confitec.Filters.dll
+C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Filters\obj\Debug\netcoreapp2.1\Confitec.Filters.pdb
