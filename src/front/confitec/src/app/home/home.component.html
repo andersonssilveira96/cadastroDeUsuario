@@ -1,0 +1,99 @@
+<div class="container col-md-offset-3">
+    
+    
+    <div class="botao-inserir">
+        <button type="button" routerLink="/cadastrar" class="btn btn-outline-dark">
+            <i class="fa fa-plus" aria-hidden="true"></i>
+            <span class="fs-it-btn-vertical-line"></span>
+            Cadastrar</button>
+    </div>
+    
+
+    <div class="">
+        <div class="tabela">
+            <table class="table table-responsive table-striped table-condensed">
+                <thead>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Sobrenome</th>
+                        <th>Email</th>
+                        <th>Data de Nascimento</th>
+                        <th>Escolaridade</th>        
+                        <th>Ações</th>                                                                                    
+                    </tr>
+                </thead>   
+                <tbody>
+                    <tr *ngFor="let item of usuarios">
+                        <td>{{ item.nome }}</td>
+                        <td>{{ item.sobrenome }}</td>
+                        <td>{{ item.email }}</td>
+                        <td>{{ item.dataNascimento | date: 'dd/MM/yyyy' }}</td>                                
+                        <td>{{ item.escolaridade.descricao }}</td>                   
+                        <td>
+                            <button class="acao" (click)="edit(content, item.id)"><i class="fas fa-edit"></i></button>
+                            <button class="acao" (click)="delete(item.id)"><i class="fas fa-trash-alt"></i></button>
+                        </td>                                                         
+                    </tr>                                                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>     
+
+
+
+<ng-template #content let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="modal-basic-title">Atualizar Usuário</h4>
+      <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('')">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+        <form class="" [formGroup]="form">
+						
+            <div class="form-group">
+                <label for="name">Nome</label>
+                <div class="input-group">                    
+                    <input type="text"  required class="form-control" formControlName="nome" name="name" id="name"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="sobrenome">Sobrenome</label>
+                <div class="input-group">                
+                    <input type="text" required class="form-control" formControlName="sobrenome" name="sobrenome"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email</label>
+                <div class="input-group">                    
+                    <input type="email" required pattern="^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" class="form-control" formControlName="email" name="email"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="dataNascimento">Data de Nascimento</label>
+                <div class="input-group">                    
+                    <input type="date" required   class="form-control" formControlName="dataNascimento" name="dataNascimento"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="username">Escolaridade</label>
+                <div class="input-group">                
+                    <select class="form-control" required formControlName="escolaridade" *ngIf="escolaridade" name="Escolaridade">                     
+                        <option value="" selected>Selecione...</option>                            
+                        <option [value]="item.id" *ngFor="let item of escolaridade">{{item.descricao}}</option>                            
+                    </select>
+                </div>
+            </div>               
+        </form>
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-outline-dark" (click)="atualizar()">Atualizar</button>
+    </div>
+  </ng-template>
+  
+  

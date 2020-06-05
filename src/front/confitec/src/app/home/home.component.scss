@@ -1,0 +1,43 @@
+@import '../../styles.scss';
+
+
+:host .mat-typography   {
+   background-image: none!important;
+}
+
+.tabela {
+   margin: 1% 0%;
+}
+
+.botao-inserir {
+   margin-top: 4%;
+   .btn-primary {
+      background-color: $cinzaEscuro!important;
+      border-color: $cinzaEscuro!important;
+   }
+}
+
+.acao {  
+   border-radius: 0;
+   border: none;
+   background-color: transparent;  
+}
+
+a {
+   color: $cinzaEscuro!important;
+}
+
+.table-responsive {
+   display: table;
+   width: 100%;
+   overflow-x: auto;
+
+   @media (max-width: 800px) 
+   {
+      display: block;
+   }
+}
+
+button:focus {
+   outline: none!important;
+}

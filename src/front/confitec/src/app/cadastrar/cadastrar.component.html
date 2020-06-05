@@ -1,0 +1,49 @@
+<div class="container-fluid margin10 col-12 col-md-6 md-offset-3">
+    <h1 class="text-center">Cadastrar Usuário</h1>
+    <hr>
+    <div class="">
+        <form class="" [formGroup]="form">
+						
+            <div class="form-group">
+                <label for="name">Nome</label>
+                <div class="input-group">                    
+                    <input type="text"  required class="form-control" formControlName="nome" name="name" id="name"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="sobrenome">Sobrenome</label>
+                <div class="input-group">                
+                    <input type="text" required class="form-control" formControlName="sobrenome" name="sobrenome"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email</label>
+                <div class="input-group">                    
+                    <input type="email" required pattern="^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" class="form-control" formControlName="email" name="email"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="dataNascimento">Data de Nascimento</label>
+                <div class="input-group">                    
+                    <input type="date" required   class="form-control" formControlName="dataNascimento" name="dataNascimento"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="username">Escolaridade</label>
+                <div class="input-group">                
+                    <select class="form-control" required formControlName="escolaridade" *ngIf="escolaridade" name="Escolaridade">                     
+                        <option value="" selected>Selecione...</option>                            
+                        <option [value]="item.id" *ngFor="let item of escolaridade">{{item.descricao}}</option>                            
+                    </select>
+                </div>
+            </div>
+
+            <button class="btn btn-outline-dark" (click)="cadastrar()">Cadastrar</button>            
+        </form>
+    </div>
+</div>
+    
