@@ -10,9 +10,7 @@
         "dependencies": {
           "AutoMapper": "9.0.0",
           "Confitec.Data": "1.0.0",
-          "Confitec.Domain": "1.0.0",
-          "Microsoft.AspNetCore.JsonPatch": "2.1.1.0",
-          "Microsoft.AspNetCore.Mvc.Abstractions": "2.1.1.0"
+          "Confitec.Domain": "1.0.0"
         },
         "runtime": {
           "Confitec.Application.dll": {}
@@ -756,22 +754,6 @@
           "Confitec.Domain.dll": {}
         }
       },
-      "Microsoft.AspNetCore.JsonPatch/2.1.1.0": {
-        "runtime": {
-          "Microsoft.AspNetCore.JsonPatch.dll": {
-            "assemblyVersion": "2.1.1.0",
-            "fileVersion": "2.1.1.18157"
-          }
-        }
-      },
-      "Microsoft.AspNetCore.Mvc.Abstractions/2.1.1.0": {
-        "runtime": {
-          "Microsoft.AspNetCore.Mvc.Abstractions.dll": {
-            "assemblyVersion": "2.1.1.0",
-            "fileVersion": "2.1.1.18157"
-          }
-        }
-      },
       "Microsoft.AspNetCore.Mvc.Core.Reference/2.1.1.0": {
         "runtime": {
           "Microsoft.AspNetCore.Mvc.Core.dll": {
@@ -1320,16 +1302,6 @@
     },
     "Confitec.Domain/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.AspNetCore.JsonPatch/2.1.1.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.AspNetCore.Mvc.Abstractions/2.1.1.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },

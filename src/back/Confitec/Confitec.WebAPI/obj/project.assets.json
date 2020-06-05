@@ -4846,7 +4846,8 @@
         "dependencies": {
           "AutoMapper": "9.0.0",
           "Confitec.Data": "1.0.0",
-          "Confitec.Domain": "1.0.0"
+          "Confitec.Domain": "1.0.0",
+          "Microsoft.AspNetCore.App": "2.1.1"
         },
         "compile": {
           "bin/placeholder/Confitec.Application.dll": {}
@@ -4860,6 +4861,7 @@
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
           "Confitec.Domain": "1.0.0",
+          "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.EntityFrameworkCore": "2.1.1",
           "Microsoft.EntityFrameworkCore.Abstractions": "2.1.1",
           "Microsoft.EntityFrameworkCore.Proxies": "2.1.1",
@@ -4875,6 +4877,9 @@
       "Confitec.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.App": "2.1.1"
+        },
         "compile": {
           "bin/placeholder/Confitec.Domain.dll": {}
         },
@@ -13232,11 +13237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ander\\Desktop\\Confitec\\src\\back\\Confitec\\Confitec.WebAPI\\Confitec.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\ander\\Desktop\\Confitec\\cadastroDeUsuario\\src\\back\\Confitec\\Confitec.WebAPI\\Confitec.WebAPI.csproj",
       "projectName": "Confitec.WebAPI",
-      "projectPath": "C:\\Users\\ander\\Desktop\\Confitec\\src\\back\\Confitec\\Confitec.WebAPI\\Confitec.WebAPI.csproj",
+      "projectPath": "C:\\Users\\ander\\Desktop\\Confitec\\cadastroDeUsuario\\src\\back\\Confitec\\Confitec.WebAPI\\Confitec.WebAPI.csproj",
       "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ander\\Desktop\\Confitec\\src\\back\\Confitec\\Confitec.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\ander\\Desktop\\Confitec\\cadastroDeUsuario\\src\\back\\Confitec\\Confitec.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13255,14 +13260,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ander\\Desktop\\Confitec\\src\\back\\Confitec\\Confitec.Application\\Confitec.Application.csproj": {
-              "projectPath": "C:\\Users\\ander\\Desktop\\Confitec\\src\\back\\Confitec\\Confitec.Application\\Confitec.Application.csproj"
+            "C:\\Users\\ander\\Desktop\\Confitec\\cadastroDeUsuario\\src\\back\\Confitec\\Confitec.Application\\Confitec.Application.csproj": {
+              "projectPath": "C:\\Users\\ander\\Desktop\\Confitec\\cadastroDeUsuario\\src\\back\\Confitec\\Confitec.Application\\Confitec.Application.csproj"
             },
-            "C:\\Users\\ander\\Desktop\\Confitec\\src\\back\\Confitec\\Confitec.Data\\Confitec.Data.csproj": {
-              "projectPath": "C:\\Users\\ander\\Desktop\\Confitec\\src\\back\\Confitec\\Confitec.Data\\Confitec.Data.csproj"
+            "C:\\Users\\ander\\Desktop\\Confitec\\cadastroDeUsuario\\src\\back\\Confitec\\Confitec.Data\\Confitec.Data.csproj": {
+              "projectPath": "C:\\Users\\ander\\Desktop\\Confitec\\cadastroDeUsuario\\src\\back\\Confitec\\Confitec.Data\\Confitec.Data.csproj"
             },
-            "C:\\Users\\ander\\Desktop\\Confitec\\src\\back\\Confitec\\Confitec.IoC\\Confitec.IoC.csproj": {
-              "projectPath": "C:\\Users\\ander\\Desktop\\Confitec\\src\\back\\Confitec\\Confitec.IoC\\Confitec.IoC.csproj"
+            "C:\\Users\\ander\\Desktop\\Confitec\\cadastroDeUsuario\\src\\back\\Confitec\\Confitec.IoC\\Confitec.IoC.csproj": {
+              "projectPath": "C:\\Users\\ander\\Desktop\\Confitec\\cadastroDeUsuario\\src\\back\\Confitec\\Confitec.IoC\\Confitec.IoC.csproj"
             }
           }
         }

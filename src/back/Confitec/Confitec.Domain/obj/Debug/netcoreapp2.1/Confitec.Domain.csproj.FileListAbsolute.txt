@@ -11,3 +11,10 @@ C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\obj\Debug\netc
 C:\Users\ander\Desktop\Confitec\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.pdb
 C:\Users\ander\Desktop\Confitec\cadastroDeUsuario\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.dll
 C:\Users\ander\Desktop\Confitec\cadastroDeUsuario\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.pdb
+C:\Users\ander\Desktop\Confitec\cadastroDeUsuario\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.csprojAssemblyReference.cache
+C:\Users\ander\Desktop\Confitec\cadastroDeUsuario\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Confitec\cadastroDeUsuario\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Confitec\cadastroDeUsuario\src\back\Confitec\Confitec.Domain\obj\Debug\netcoreapp2.1\Confitec.Domain.AssemblyInfo.cs
+C:\Users\ander\Desktop\Confitec\cadastroDeUsuario\src\back\Confitec\Confitec.Domain\bin\Debug\netcoreapp2.1\Confitec.Domain.deps.json
+C:\Users\ander\Desktop\Confitec\cadastroDeUsuario\src\back\Confitec\Confitec.Domain\bin\Debug\netcoreapp2.1\Confitec.Domain.dll
+C:\Users\ander\Desktop\Confitec\cadastroDeUsuario\src\back\Confitec\Confitec.Domain\bin\Debug\netcoreapp2.1\Confitec.Domain.pdb
